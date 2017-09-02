@@ -5,7 +5,8 @@ import (
 	"strconv"
 	"time"
 
-	"code.google.com/p/rsc/qr"
+	//"code.google.com/p/rsc/qr"
+	"github.com/rsc/qr"
 
 	"github.com/clusterit/orca/auth"
 	"github.com/clusterit/orca/common"
